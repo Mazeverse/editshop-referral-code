@@ -1,0 +1,9 @@
+{
+  "name": "에딧샵 추천인 코드",
+  "short_name": "에딧샵 코드",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#111111",
+  "lang": "ko-KR"
+}
